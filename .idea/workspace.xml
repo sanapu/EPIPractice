@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aacc671d-5831-41e1-bf28-cc57212724f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XKVt3I15Bv788eHd0EGbJ3iP37" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.epipractice" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReverseStringTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.epipractice.Main" />
+      <module name="EPIPractice" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EPIPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epipractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epipractice" />
+      <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseDigitsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseDigitsTest.reverseNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EPIPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epipractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epipractice" />
+      <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseDigitsTest" />
+      <option name="METHOD_NAME" value="reverseNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EPIPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epipractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epipractice" />
+      <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringTest.reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EPIPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epipractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epipractice" />
+      <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseStringTest" />
+      <option name="METHOD_NAME" value="reverseString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReverseStringTest" />
+        <item itemvalue="JUnit.ReverseDigitsTest" />
+        <item itemvalue="JUnit.ReverseStringTest.reverseString" />
+        <item itemvalue="JUnit.ReverseDigitsTest.reverseNumber" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aacc671d-5831-41e1-bf28-cc57212724f8" name="Default Changelist" comment="" />
+      <created>1580794983941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580794983941</updated>
+      <workItem from="1580794992116" duration="332000" />
+      <workItem from="1580795352106" duration="1648000" />
+      <workItem from="1580881945286" duration="2284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="143" width="1060" height="472" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580884341884">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="110" y="143" width="1060" height="472" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.709@0.23.1280.709" timestamp="1580884341884" />
+    <state x="268" y="73" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1580795667658">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="268" y="73" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1280.709@0.23.1280.709" timestamp="1580795667658" />
+    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1580884582020">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="234" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1580884582020" />
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1580884456652">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580884456652" />
+    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1580884456650">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580884456650" />
+    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1580884456649">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580884456649" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1580884456651">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580884456651" />
+    <state width="1218" height="335" key="GridCell.Tab.1.bottom" timestamp="1580798272687">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580798272687" />
+    <state width="1218" height="335" key="GridCell.Tab.1.center" timestamp="1580798272686">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1580798272686" />
+    <state width="1218" height="335" key="GridCell.Tab.1.left" timestamp="1580798272684">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1580798272684" />
+    <state width="1218" height="335" key="GridCell.Tab.1.right" timestamp="1580798272687">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1580798272687" />
+    <state width="1218" height="335" key="GridCell.Tab.2.bottom" timestamp="1580798272690">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.2.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580798272690" />
+    <state width="1218" height="335" key="GridCell.Tab.2.center" timestamp="1580798272688">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.2.center/0.23.1280.709@0.23.1280.709" timestamp="1580798272688" />
+    <state width="1218" height="335" key="GridCell.Tab.2.left" timestamp="1580798272688">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.2.left/0.23.1280.709@0.23.1280.709" timestamp="1580798272688" />
+    <state width="1218" height="335" key="GridCell.Tab.2.right" timestamp="1580798272689">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="335" key="GridCell.Tab.2.right/0.23.1280.709@0.23.1280.709" timestamp="1580798272689" />
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor" timestamp="1580795637479">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1580795637479" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580884672187">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.709@0.23.1280.709" timestamp="1580884672187" />
+    <state x="319" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580881951122">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1580881951122" />
+    <state x="352" y="280" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580795931885">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="352" y="280" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.709@0.23.1280.709" timestamp="1580795931885" />
+    <state x="419" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580882453043">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="419" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.709@0.23.1280.709" timestamp="1580882453043" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1580795119040">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1580795119040" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/epipractice/ReverseDigitsTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
