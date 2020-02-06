@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aacc671d-5831-41e1-bf28-cc57212724f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsimpl/doublyll/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DoublyLinkedListTest">
+  <component name="RunManager" selected="JUnit.DoublyLinkedListTest.add">
     <configuration name="DoublyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EPIPractice" />
       <extension name="coverage">
@@ -87,6 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoublyLinkedListTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EPIPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsimpl.doublyll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsimpl.doublyll" />
+      <option name="MAIN_CLASS_NAME" value="com.dsimpl.doublyll.DoublyLinkedListTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EPIPractice" />
       <extension name="coverage">
@@ -98,22 +113,6 @@
       <option name="PACKAGE_NAME" value="com.epipractice" />
       <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseDigitsTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseDigitsTest.reverseNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EPIPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epipractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.epipractice" />
-      <option name="MAIN_CLASS_NAME" value="com.epipractice.ReverseDigitsTest" />
-      <option name="METHOD_NAME" value="reverseNumber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DoublyLinkedListTest.add" />
         <item itemvalue="JUnit.DoublyLinkedListTest" />
         <item itemvalue="JUnit.ReverseStringTest" />
         <item itemvalue="JUnit.ReverseDigitsTest" />
         <item itemvalue="JUnit.ReverseStringTest.reverseString" />
-        <item itemvalue="JUnit.ReverseDigitsTest.reverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +182,7 @@
       <updated>1580794983941</updated>
       <workItem from="1580794992116" duration="332000" />
       <workItem from="1580795352106" duration="1648000" />
-      <workItem from="1580881945286" duration="4151000" />
+      <workItem from="1580881945286" duration="7799000" />
     </task>
     <task id="LOCAL-00001" summary="Epi - Reverse,palindrome Digits,Number">
       <created>1580884716395</created>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580884716395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Epi - DoubleLinkedList">
+      <created>1580887349691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580887349691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Epi - Reverse,palindrome Digits,Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Epi - Reverse,palindrome Digits,Number" />
+    <MESSAGE value="Epi - DoubleLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Epi - DoubleLinkedList" />
   </component>
   <component name="WindowStateProjectService">
     <state x="110" y="143" width="1060" height="472" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580884341884">
@@ -211,26 +218,26 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="268" y="73" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1280.709@0.23.1280.709" timestamp="1580795667658" />
-    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1580884716008">
+    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1580887349290">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="234" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1580884716008" />
-    <state width="1218" height="335" key="GridCell.Tab.0.bottom" timestamp="1580887297514">
+    <state x="234" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1580887349290" />
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1580975880387">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="335" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580887297514" />
-    <state width="1218" height="335" key="GridCell.Tab.0.center" timestamp="1580887297512">
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580975880387" />
+    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1580975880386">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="335" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580887297512" />
-    <state width="1218" height="335" key="GridCell.Tab.0.left" timestamp="1580887297510">
+    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580975880386" />
+    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1580975880385">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="335" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580887297510" />
-    <state width="1218" height="335" key="GridCell.Tab.0.right" timestamp="1580887297513">
+    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580975880385" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1580975880386">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1218" height="335" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580887297513" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580975880386" />
     <state width="1218" height="335" key="GridCell.Tab.1.bottom" timestamp="1580887297518">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
@@ -313,47 +320,47 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedListTest.java</url>
-          <line>16</line>
+          <line>17</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>9</line>
+          <line>10</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>11</line>
+          <line>12</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>12</line>
+          <line>13</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dsimpl/doublyll/DoublyLinkedList.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
